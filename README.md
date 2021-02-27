@@ -1,6 +1,7 @@
 medium-auth0-go-web-server
 ===========================
 
+Small Go web server written with Go Fiber to demonstrate securing routes with a JWT middleware.
 
 ```sh
 ### Run
